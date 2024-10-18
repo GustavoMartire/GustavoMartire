@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👓 Olá, meu nome é Gustavo, mas pode me chamar de Gus.
 •📊 Análise de dados e Machine Learning<br>•🎓 Cursando 2º semestre em Análise e Desenvolvimento de Sistemas<br>•📘 Unicesumar
 
 
